@@ -1,0 +1,28 @@
+name: MobileEvents
+favicon: null
+layout_spectrum: 0.6768149433191866
+typography_spectrum: 0.3222744024824351
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.948478814214468
+  lightness: 0.5017031733877957
+  saturation: 0.7139041791670024
+  rhythmicContrast: 0.19265402667224407
+purpose: []
